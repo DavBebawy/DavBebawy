@@ -19,9 +19,11 @@
 
 ## 🚀 Some Tools I Use
 
-[<code>
+<!-- [<code>
 <img alt="Swift" width="24px" src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png"/>
-</code>](https://developer.apple.com/swift/)
+</code>](https://developer.apple.com/swift/) -->
+<img alt="Swift" width="24px" src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png"/> <img alt="Kotlin" width="24px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
+
 [<code>
 <img alt="Kotlin" width="24px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 </code>](https://kotlinlang.org)
