@@ -13,43 +13,9 @@
 | [![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)]() | [![Pokedex](https://img.shields.io/static/v1?label=Pokedex&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/Pokedex) [![Fiftygram](https://img.shields.io/static/v1?label=Fiftygram&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/Fiftygram) |
 | [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)]() | [![  ](https://img.shields.io/static/v1?label=first&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/first) |
 | [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)]() | [![  ](https://img.shields.io/static/v1?label=in%20development&message=%20&color=000605&labelColor=000605)]() |
-| [![Pyton](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]() | [![Gloomhaven-Attack-Simulator](https://img.shields.io/static/v1?label=Gloomhaven-Attack-Simulator&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/School-Projects/tree/master/Gloomhaven-Attack-Simulator) |
-| [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)]() | [![  ](https://img.shields.io/static/v1?label=first&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/first) |
-| [![Racket](https://img.shields.io/static/v1?style=for-the-badge&message=Racket&color=9F1D20&logo=Racket&logoColor=FFFFFF&label=)]() |[![  ](https://img.shields.io/static/v1?label=first&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/first) |
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->  
-
-
-##  BlackJack
-
-A simple single-player game of BlackJack, written in Racket.<br>
-[Jump to the code](<./BlackJack>)
-
-## Gloomhaven Attack Simulator
-
-This Python program simulates 1000 rounds (adjustable) to calculate the probability of each damage, effects average and the average attack damage to allow a user to optimize their deck configuration. The results are then plotted using matplotlib and seaborn.<br>
-[Jump to the code](<./Gloomhaven-Attack-Simulator>)
-
-## Hangman
-
-A simple hangman game, written in Python.<br>
-[Jump to the code](<./Hangman>)
-
-## Recursive Racket
-
-A few basic Racket functions operating recursively on lists and sets.<br>
-[Jump to the code](<./Recursive-Racket>)
-
-## Ruby Binary Search Tree
-
-Binary Search Tree class with a few basic functions, written in Ruby.<br>
-[Jump to the code](<./Ruby-BST>)
-
-## Ruby Pair
-
-Pair is a Racket class that mimics the cons box (a.k.a dotted pair) in Racket.<br>
-[Jump to the code](<./Ruby-Pair>)
-
-https://github.com/DavBebawy/School-Projects/tree/master/BlackJack
+| [![Pyton](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]() | [![Hangman](https://img.shields.io/static/v1?label=Hangman&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/School-Projects/tree/master/Hangman) [![Gloomhaven-Attack-Simulator](https://img.shields.io/static/v1?label=Gloomhaven-Attack-Simulator&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/School-Projects/tree/master/Gloomhaven-Attack-Simulator) |
+| [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)]() | [![Ruby-BST](https://img.shields.io/static/v1?label=Ruby-BST&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/School-Projects/tree/master/Ruby-BST) [![Ruby-Pair](https://img.shields.io/static/v1?label=Ruby-Pair&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/School-Projects/tree/master/Ruby-Pair)  |
+| [![Racket](https://img.shields.io/static/v1?style=for-the-badge&message=Racket&color=9F1D20&logo=Racket&logoColor=FFFFFF&label=)]() |[![BlackJack](https://img.shields.io/static/v1?label=BlackJack&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/School-Projects/tree/master/BlackJack) [![Recursive-Racket](https://img.shields.io/static/v1?label=Recursive-Racket&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/School-Projects/tree/master/Recursive-Racket) |
 
 ## 🚀 Some Tools I Use
 
