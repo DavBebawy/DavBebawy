@@ -2,16 +2,17 @@
 
 ## I'm a Senior at Wright State University studying Computer Science
 - 🔭 I’m currently working on my final year project!
+- 🔮 I graduate in May and I am actively looking for work opportunity
 - 🌱 I’m currently learning Swift, Kotlin & Flutter
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I want to travel to all 50 States in the next two years
+- ⚡ Fun fact: I want to travel to all 50 States in the next two years 
 
 ## 💻 My Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Language** | 🚀 **Projects** |
 |-|-|
 | [![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)]() | [![Pokedex](https://img.shields.io/static/v1?label=Pokedex&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/Pokedex) [![Fiftygram](https://img.shields.io/static/v1?label=Fiftygram&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/Fiftygram) |
-| [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)]() | [![  ](https://img.shields.io/static/v1?label=first&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/first) |
+| [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)]() | [![AI-Block-Sorting](https://img.shields.io/static/v1?label=AI-Block-Sorting&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/School-Projects/tree/master/AI-Block-Sorting)|
 | [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)]() | [![  ](https://img.shields.io/static/v1?label=in%20development&message=%20&color=000605&labelColor=000605)]() |
 | [![Pyton](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]() | [![Hangman](https://img.shields.io/static/v1?label=Hangman&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/School-Projects/tree/master/Hangman) [![Gloomhaven-Attack-Simulator](https://img.shields.io/static/v1?label=Gloomhaven-Attack-Simulator&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/School-Projects/tree/master/Gloomhaven-Attack-Simulator) |
 | [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)]() | [![Ruby-BST](https://img.shields.io/static/v1?label=Ruby-BST&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/School-Projects/tree/master/Ruby-BST) [![Ruby-Pair](https://img.shields.io/static/v1?label=Ruby-Pair&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DavBebawy/School-Projects/tree/master/Ruby-Pair)  |
