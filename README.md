@@ -7,16 +7,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I want to travel to all 50 States in the next two years 
 
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-  
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="dbebawy"><a class="LI-simple-link" href='https://www.linkedin.com/in/dbebawy?trk=profile-badge'>David Bebawy</a></div>
-
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="dbebawy"><a class="LI-simple-link" href='https://www.linkedin.com/in/dbebawy?trk=profile-badge'>David Bebawy</a></div>
-
-
 ## 💻 My Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Language** | 🚀 **Projects** |
